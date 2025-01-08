@@ -1,2 +1,2 @@
-# GodotProject
-GitHub for Rojo's Game dev project
+# GD.Scripting 
+This branch will store the GD script and Scenes of Godot
