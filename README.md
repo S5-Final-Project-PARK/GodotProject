@@ -1,2 +1,2 @@
-# GodotProject
-GitHub for Rojo's Game dev project
+# Pre-release
+This branch will contain the release test of the project
